@@ -1,1 +1,1 @@
-# 3.-Voice-Detection-Rescue-System
+# Voice-Detection-Rescue-System
