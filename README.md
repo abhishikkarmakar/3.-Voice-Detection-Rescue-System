@@ -1,5 +1,5 @@
 # Voice-Detection-Rescue-System
-Developing a basic Voice Detection Rescue System in the next two hours will be ambitious but feasible with a simplified approach. Here’s a streamlined plan you can follow using available resources and tools:
+Developing a basic Voice Detection Rescue System in the next two hours will be ambitious but feasible with a simplified approach. Here’s a streamlined plan we can follow using available resources and tools:
 
 ### **1. System Design Overview**
 
